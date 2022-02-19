@@ -3,6 +3,7 @@
     <body>
         <h1> First PHP Commit</h1>
 
+        <!-- php script -->
         <?php
         $color = "red";
         $Color = "green";
@@ -28,6 +29,14 @@
         echo "<p>This is variable x outside fungsisatu function = $a</P>";
         echo "<p>The variable and array Z is = $Z</p>";
         ?>
+        
+            
+
+        <form action ="login.php" method="get">
+        <button type="submit">Launch Now!</button>
+        <!-- <input type="submit" value="Open Form"> -->
+        </form>
+
 
     </body>
 </html>

@@ -1,1 +1,1 @@
-hello world :)
+This is just my exercise for php. Feel free if you want to edit and clone.
